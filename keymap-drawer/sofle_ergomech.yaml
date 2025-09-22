@@ -53,12 +53,12 @@ layers:
   - ''
   - LCTRL
   - LEFT ALT
-  - lower
+  - LEFT COMMAND
   - RET
   - {t: SPACE, h: RIGHT SHIFT}
+  - lower
   - raise
-  - RIGHT ALT
-  - RCTRL
+  - adjust
   - ''
   - '&bootloader'
   - ''
@@ -118,10 +118,10 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -186,8 +186,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
   - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - A
@@ -248,12 +248,12 @@ layers:
   - ''
   - ''
   - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
   - {type: held}
-  - ''
-  - ''
-  - {type: held}
-  - ''
-  - ''
   - ''
   - A
   - ''
