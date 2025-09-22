@@ -54,7 +54,7 @@ layers:
   - LCTRL
   - LEFT ALT
   - LEFT COMMAND
-  - RET
+  - {t: RETURN, h: LEFT SHIFT}
   - {t: SPACE, h: RIGHT SHIFT}
   - lower
   - raise
