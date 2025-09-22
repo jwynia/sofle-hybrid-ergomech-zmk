@@ -1,8 +1,8 @@
 layout: {zmk_keyboard: sofle_ergomech}
 layers:
-  default: ['&bootloader', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', '&bootloader', ESC, Q, W, F, P, B, J, L, U, Y, '|', BSPC, TAB, A, R, S, T, G, M, N, E,
-    I, O, '''', LSHFT, Z, X, C, D, V, K, H, '''', '&', '`', RSHFT, '&bootloader', LGUI, LALT, LCTRL, lower, RET, SPACE, raise, RCTRL, RALT, RGUI, '&bootloader', '',
-    '', '', '']
+  default: [ESCAPE, '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', '&bootloader', TAB, Q, W, F, P, B, J, L, U, Y, '|', BSPC, BACKSPACE, A, R, S, T, G, M, N, E,
+    I, O, '''', (, Z, X, C, D, V, K, H, '''', '&', '`', RSHFT, '&bootloader', '', LCTRL, LEFT ALT, lower, RET, SPACE, raise, RIGHT ALT, RCTRL, '', '&bootloader',
+    '', '', '', '']
   lower:
   - '&studio_unlock'
   - F1
@@ -40,7 +40,7 @@ layers:
   - (
   - )
   - '|'
-  - {t: ▽, type: trans}
+  - '{'
   - '='
   - '-'
   - +
@@ -105,7 +105,7 @@ layers:
   - RIGHT
   - DEL
   - BSPC
-  - {t: ▽, type: trans}
+  - '['
   - UNDO
   - CUT
   - COPY
