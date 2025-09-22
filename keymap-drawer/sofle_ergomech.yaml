@@ -25,7 +25,7 @@ layers:
   - Y
   - '|'
   - BSPC
-  - BACKSPACE
+  - '&bootloader'
   - {t: A, h: LEFT SHIFT}
   - R
   - S
