@@ -16,9 +16,9 @@ Ergomech has modified the original Sofle Hybrid to include a 5 way switch on the
 # ErgoMech Sofle Hybrid Wireless
 The Ergomech Sofle Hybrid Wireless uses a Nice!Nano microcontroller and runs the ZMK firmware. This guide will show you how to flash the ZMK firmware to the Nice!Nano microcontroller.
 
-## Default keymap
+## Current keymap
 The default keymap of this keyboard can be found here:
-![Default Keymap](./keymap-drawer/sofle_ergomech.svg)
+![Current Keymap](./keymap-drawer/sofle_ergomech.svg)
 
 ## Flashing the Sofle Hybrid
 The ZMK cli tool would typically have you step through several questions to generate the necessary code to flash the firmware then upload it to a new repository on GitHub.
