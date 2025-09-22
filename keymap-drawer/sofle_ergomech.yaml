@@ -1,8 +1,70 @@
 layout: {zmk_keyboard: sofle_ergomech}
 layers:
-  default: [ESCAPE, '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', '&bootloader', TAB, Q, W, F, P, B, J, L, U, Y, '|', BSPC, BACKSPACE, A, R, S, T, G, M, N, E,
-    I, O, '''', (, Z, X, C, D, V, K, H, '''', '&', '`', ), '&bootloader', '', LCTRL, LEFT ALT, lower, RET, SPACE, raise, RIGHT ALT, RCTRL, '', '&bootloader', '',
-    '', '', '']
+  default:
+  - ESCAPE
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '0'
+  - '&bootloader'
+  - TAB
+  - Q
+  - W
+  - F
+  - P
+  - B
+  - J
+  - L
+  - U
+  - Y
+  - '|'
+  - BSPC
+  - BACKSPACE
+  - A
+  - R
+  - S
+  - T
+  - G
+  - M
+  - N
+  - E
+  - I
+  - O
+  - ''''
+  - (
+  - Z
+  - X
+  - C
+  - D
+  - V
+  - K
+  - H
+  - ''''
+  - '&'
+  - '`'
+  - )
+  - '&bootloader'
+  - ''
+  - LCTRL
+  - LEFT ALT
+  - lower
+  - RET
+  - {t: SPACE, h: RIGHT SHIFT}
+  - raise
+  - RIGHT ALT
+  - RCTRL
+  - ''
+  - '&bootloader'
+  - ''
+  - ''
+  - ''
+  - ''
   lower:
   - '&studio_unlock'
   - F1
