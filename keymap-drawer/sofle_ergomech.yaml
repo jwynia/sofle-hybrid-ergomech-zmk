@@ -36,7 +36,7 @@ layers:
   - E
   - I
   - {t: O, h: RIGHT SHIFT}
-  - ''''
+  - '-'
   - (
   - Z
   - X
