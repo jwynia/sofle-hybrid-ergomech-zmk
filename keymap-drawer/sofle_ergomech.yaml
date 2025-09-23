@@ -23,7 +23,7 @@ layers:
   - L
   - U
   - Y
-  - '|'
+  - /
   - DELETE
   - '&bootloader'
   - {t: A, h: LEFT SHIFT}
@@ -88,7 +88,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - \
   - F12
   - {t: ▽, type: trans}
   - '!'
@@ -106,12 +106,12 @@ layers:
   - '='
   - '-'
   - +
-  - '{'
+  - '*'
   - '}'
   - '['
   - ']'
   - ;
-  - ':'
+  - '|'
   - \
   - '}'
   - ;
