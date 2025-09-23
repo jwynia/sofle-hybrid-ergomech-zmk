@@ -12,7 +12,7 @@ layers:
   - '8'
   - '9'
   - '0'
-  - '&bootloader'
+  - BACKSPACE
   - TAB
   - Q
   - W
@@ -24,7 +24,7 @@ layers:
   - U
   - Y
   - '|'
-  - BSPC
+  - DELETE
   - '&bootloader'
   - {t: A, h: LEFT SHIFT}
   - R
@@ -49,7 +49,7 @@ layers:
   - '&'
   - '`'
   - )
-  - '&bootloader'
+  - ','
   - ''
   - LCTRL
   - LEFT ALT
@@ -60,7 +60,7 @@ layers:
   - raise
   - adjust
   - ''
-  - '&bootloader'
+  - .
   - ''
   - ''
   - ''
@@ -79,16 +79,16 @@ layers:
   - F10
   - F11
   - '&bootloader'
-  - '1'
-  - '2'
-  - '3'
-  - '4'
-  - '5'
-  - '6'
-  - '7'
-  - '8'
-  - '9'
-  - '0'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - F12
   - {t: ▽, type: trans}
   - '!'
